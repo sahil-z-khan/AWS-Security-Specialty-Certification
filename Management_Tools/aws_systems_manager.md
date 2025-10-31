@@ -1,4 +1,4 @@
-# 🧰 AWS Systems Manager (SSM) – SCS-002 Quick Reference
+# 🧰 AWS Systems Manager (SSM)
 
 **Purpose:**  
 Centrally manage, patch, and secure EC2/on-prem resources **without SSH or open ports**.
